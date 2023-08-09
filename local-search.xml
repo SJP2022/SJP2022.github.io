@@ -4,26 +4,25 @@
   
   
   <entry>
-    <title>My New Post</title>
-    <link href="/2023/07/27/My-New-Post/"/>
-    <url>/2023/07/27/My-New-Post/</url>
+    <title>第0篇Blog</title>
+    <link href="/2023/08/09/Starting-Point/"/>
+    <url>/2023/08/09/Starting-Point/</url>
     
-    <content type="html"><![CDATA[<p class="katex-block "><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">E=mc^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8641em;"></span><span class="mord mathnormal">m</span><span class="mord"><span class="mord mathnormal">c</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Get Start</title>
-    <link href="/2023/07/27/get-start/"/>
-    <url>/2023/07/27/get-start/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to my first blog!</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="让一切发生吧！">让一切发生吧！</h2><p>想记录自己学习和生活很久了，终于在距离本科毕业还有不到一年的今天，开始依托 <a href="https://github.com/SJP2022">GitHub</a> 维护起自己的博客，写下这自己的第一篇文章。</p><p>我希望在这里经营起属于自己的小世界，主要以记录科研工作和技术学习为主，偶尔也会写一些小日志，作为自己 Career Life 的整理与记录。</p><p>作为一名未来的计算机工作者，我认为<strong>开放</strong>和<strong>合作</strong>会在研究生以及未来的工作阶段发挥重要的作用，所以，我会在博客中表达我的想法，也分享我的经验，如果你也对我的话题感兴趣，我非常期待和你的交流！我们的思想碰撞一定会产生出耀眼的火花，我相信我们都可以用自己的力量为这个领域做点什么，我无比期待与你在科研工作、技术开发上的交流与合作！</p><p>最后，对待工作要努力，对待生活更要努力，共勉！</p><h2 id="关于本站">关于本站</h2><p>本博客使用 <a href="https://hexo.io/zh-cn/">Hexo 框架</a> + <a href="https://github.com/zkqiang">张凯强</a>大佬开发的 <a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid 主题</a>，现阶段我暂未开启评论功能（感觉评论可能会不利于维护），同时也尚未上线RSS订阅功能，这些会在后续进行完善，期待你的关注！同时有任何问题都可以通过微信、QQ、邮箱联系到我，期待与你的交流！</p>]]></content>
     
     
+    <categories>
+      
+      <category>随便写写</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>日志</tag>
+      
+    </tags>
     
   </entry>
   
@@ -39,7 +38,7 @@
     
     <categories>
       
-      <category>其他</category>
+      <category>本站搭建</category>
       
     </categories>
     
@@ -47,8 +46,6 @@
     <tags>
       
       <tag>Hexo</tag>
-      
-      <tag>Fluid</tag>
       
     </tags>
     
